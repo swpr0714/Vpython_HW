@@ -1,5 +1,5 @@
 from vpython import *
-scene = display(width=1920, height=1080, center=vec(0,0,0),forward=(1,0,0),background=color.cyan)
+scene = canvas(width=1920, height=1080, center=vec(0,0,0),x=0,y=0)
 
 
 
